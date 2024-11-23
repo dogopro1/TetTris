@@ -41,7 +41,7 @@ This sets the console window to a width of 30 characters and a height of 25 line
 
 remember to set the cmd window size narrow enough so that textures and frames load properly and the game can be seen clearly
  ```
- emember this is just a prototype and retro style game
+ remember this is just a prototype and retro style game
   ```
 
 
