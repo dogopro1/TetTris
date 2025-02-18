@@ -47,7 +47,7 @@ remember to set the cmd window size narrow enough so that textures and frames lo
 
 ## Authors
 
-- [Dominiq217](https://github.com/Dominiq217)
+- [DogoPro](https://github.com/dogopro1)
  
 
 ## Screenshots
