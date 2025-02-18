@@ -9,7 +9,7 @@ To play Tetris in CMD, follow these steps:
 1. **Download Instructions:**
    - Clone this repository to your local machine using the following command:
      ```
-     git clone [https://github.com/your-username/tetris-cmd.git](https://github.com/Dominiq217/TetTris.git)
+     git clone https://github.com/dogopro1/TetTris.git
      ```
 
 2. **Open in  
