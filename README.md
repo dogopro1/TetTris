@@ -52,6 +52,6 @@ remember to set the cmd window size narrow enough so that textures and frames lo
 
 ## Screenshots
 
-![App Screenshot]![tetris game simple code](https://github.com/Dominiq217/TetTris/assets/97559453/d4ab8ee8-880d-423f-9bd8-8fdf5d29b993)
+[tetris game simple code](https://github.com/Dominiq217/TetTris/assets/97559453/d4ab8ee8-880d-423f-9bd8-8fdf5d29b993)
 
 
