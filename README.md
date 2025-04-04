@@ -37,7 +37,7 @@ For the best gaming experience, it's recommended to adjust the size of the conso
  ```
 This sets the console window to a width of 30 characters and a height of 25 lines. You can adjust these values according to your preference.
  ```
-## Demo
+### Demo
 
 remember to set the cmd window size narrow enough so that textures and frames load properly and the game can be seen clearly
  ```
