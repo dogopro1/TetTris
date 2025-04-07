@@ -12,7 +12,7 @@ To play Tetris in CMD, follow these steps:
      git clone https://github.com/dogopro1/TetTris.git
      ```
 
-2. **Open in  
+2. **Open in**
 ```
  Visual Studio 2022  
  ```
